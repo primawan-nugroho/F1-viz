@@ -1,6 +1,6 @@
 # F1-viz
 
-Formula 1 data visualization for race and qualification simple stastical analysis.
+Formula 1 data visualization for race and qualification simple statistical data analysis.
 
 Data taken from `fastf1`, processed using `pandas`, and visualize using `seaborn`.
 
