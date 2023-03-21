@@ -21,3 +21,5 @@ Before run the notebook, change the parameters such as:
 - `YEAR` : F1 year season
   
   **Note that for existing notebooks this is better suited for the driver in the 2023 F1 season*
+
+Specify your cache folder. FastF1 use cached data to speed up in the next run.
